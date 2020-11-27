@@ -1,6 +1,6 @@
 # Video-Engagement-Analysis
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript.
-Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
+This code is only for academic and research purposes.
 
 # Code Organization
 All code are written in Python3
