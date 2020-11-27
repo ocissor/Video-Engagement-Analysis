@@ -1,6 +1,16 @@
 # Video-Engagement-Analysis
-File Descriptions
+Code Organization
+All code are written in Python3
 
+
+Dependencies
+The following libraries should be installed before the execution of the codes.
+
+
+Data
+
+
+File Descriptions
 
 box_plot.ipynb - Contains the code for the box plot show in the paper.
 
