@@ -1,7 +1,3 @@
-# Video-Engagement-Analysis
-With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript.
-This code is only for academic and research purposes.
-
 # Code Organization
 All code are written in Python3
 
@@ -35,11 +31,11 @@ The data source in this work is https://github.com/e-drishti/wacv2016.
 
 # File Descriptions
 
-	•box_plot.ipynb - Contains the code for the box plot show in the paper.
+	•box_plot.ipynb - Contains the code for the box plot.
 
-	•PCA_WACV_DATASET.ipynb - Contains the code for the PCA plot show in the paper.
+	•PCA_WACV_DATASET.ipynb - Contains the code for the PCA plot.
 
-	•TSNE_plots.ipynb - Contains the code for the TSNE plot show in the paper.
+	•TSNE_plots.ipynb - Contains the code for the TSNE plot.
 
 	•CNN_based_Engagement_Analysis.ipynb - Contains the code for the CNN based implementation technique.
 
